@@ -1,4 +1,4 @@
-/* Estilo geral */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
 }
 
-/* Estilo do cabeçalho */
+
 .header {
     background-color: #005293;
     color: #fff;
