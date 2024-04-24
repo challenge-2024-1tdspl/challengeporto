@@ -1,182 +1,213 @@
-.pagina-log .rectangle-44 {
-  box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25), inset 4px 2px 1px 0px rgba(0, 0, 0, 0.05);
-  border-radius: 15px;
+.pagina-cadastro {
   background: #FDFDFD;
-  position: absolute;
-  top: 236px;
-  right: 176px;
-  width: 1040px;
-  height: 585px;
-}
-.pagina-log .image-5 {
-  background: url('../img/image5.png') 50% / cover no-repeat;
-  margin: 0 168.9px 100px 0;
-  width: 149.3px;
-  height: 80px;
-}
-.pagina-log .seja-bem-vindo {
-  margin-bottom: 18px;
-  display: inline-block;
-  overflow-wrap: break-word;
-  font-family: 'Poppins';
-  font-weight: 700;
-  font-size: 40px;
-  color: #00A1FC;
-}
-.pagina-log .efetue-seu-login {
-  margin-right: 1px;
-  overflow-wrap: break-word;
-  font-family: 'Poppins';
-  font-weight: 400;
-  font-size: 24px;
-  color: #837F7F;
-}
-.pagina-log .bem-vindo {
-  margin-top: 66px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  box-sizing: border-box;
-}
-.pagina-log .container {
-  position: relative;
-  margin: 0 46.9px 17px 0;
   display: flex;
   flex-direction: row;
-  width: fit-content;
+  padding: 87px 0;
+  width: 1345px;
   box-sizing: border-box;
 }
-.pagina-log .rectangle-47 {
-  border-radius: 20px;
-  border: 1px solid #000000;
-  position: absolute;
-  left: 50%;
-  top: 19px;
-  translate: -50% 0;
-  width: 397px;
-  height: 46px;
+.pagina-cadastro .bem-vindo-de-volta {
+  margin-bottom: 337px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 36px;
+  color: #FFFFFF;
 }
-.pagina-log .rectangle-48 {
-  border-radius: 20px;
-  border: 1px solid #000000;
+.pagina-cadastro .boto-entrar {
+  box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  border: 2px solid #FDFDFD;
   position: absolute;
   left: 50%;
   bottom: 0px;
   translate: -50% 0;
-  width: 397px;
-  height: 46px;
+  width: 164px;
+  height: 72.5px;
 }
-.pagina-log .email-ou-usurio {
-  position: relative;
-  margin-bottom: 55px;
-  display: inline-block;
-  align-self: flex-start;
+.pagina-cadastro .entrar {
   overflow-wrap: break-word;
   font-family: 'Poppins';
-  font-weight: 400;
-  font-size: 13px;
-  color: #837F7F;
+  font-weight: 800;
+  font-size: 16px;
+  color: #FFFFFF;
 }
-.pagina-log .senha {
+.pagina-cadastro .group-1 {
   position: relative;
-  margin: 0 0.2px;
-  align-self: flex-start;
-  overflow-wrap: break-word;
-  font-family: 'Poppins';
-  font-weight: 400;
-  font-size: 13px;
-  color: #837F7F;
-}
-.pagina-log .passkeys {
-  border-radius: 20px;
-  position: relative;
-  margin: 0 0 57px 268.3px;
-  display: flex;
-  flex-direction: column;
-  padding: 0 0 45px 18.2px;
-  width: fit-content;
-  box-sizing: border-box;
-}
-.pagina-log .vector-4 {
-  width: 36px;
-  height: 37px;
-}
-.pagina-log .fb-login {
-  box-shadow: 5px 1px 10px 0px rgba(0, 0, 0, 0.25);
-  border-radius: 100px;
-  background: #FDFDFD;
-  position: relative;
-  margin: 0 12.3px 1.1px 0;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  padding: 3px 0.7px 2px 0;
-  width: 86.7px;
-  height: 42px;
   box-sizing: border-box;
 }
-.pagina-log .acessar {
+.pagina-cadastro .crie-sua-conta {
+  margin-top: 62.8px;
+  display: inline-block;
   overflow-wrap: break-word;
   font-family: 'Poppins';
   font-weight: 700;
-  font-size: 20px;
+  font-size: 36px;
+  color: #000000;
+}
+
+.pagina-cadastro .cadastrar {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 800;
+  font-size: 16px;
   color: #FFFFFF;
 }
-.pagina-log .acess {
+.pagina-cadastro .nome-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  color: #000000;
+}
+.pagina-cadastro .email-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  color: #000000;
+}
+.pagina-cadastro .senha-1 {
+  margin: 3.7px 0 3.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  color: #000000;
+}
+.pagina-cadastro .nome {
+  margin: 1.7px 18.9px 1.3px 0;
+  width: 19px;
+  height: 18px;
+}
+.pagina-cadastro .mdiemail-outline {
+  margin: 1.9px 16.1px 1.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 24.2px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.pagina-cadastro .email {
+  width: 24.2px;
+  height: 18px;
+}
+.pagina-cadastro .carbonpassword {
+  margin-right: 10.6px;
+  width: 30px;
+  height: 28px;
+}
+.pagina-cadastro .preencha-seus-dados {
+  margin: 0 0 3.2px 89px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  color: #837F7F;
+}
+.pagina-cadastro .group-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.pagina-cadastro .group-17 {
+  border-radius: 30px;
+  position: relative;
+  margin-left: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 24.3px 3px 24.3px 0;
+  width: 164px;
+  box-sizing: border-box;
+}
+.pagina-cadastro .image-8 {
+  background: url('../img/image5.png') 50% / cover no-repeat;
+  margin: 0 50.2px 36.8px 0;
+  width: 146px;
+  height: 80px;
+}
+.pagina-cadastro .container {
+  box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25);
   border-radius: 30px;
   background: #00A1FC;
   position: relative;
-  margin-right: 12.1px;
+  margin-left: 89px;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  padding: 7.2px 2.1px 5.9px 0;
-  width: 201.9px;
+  align-self: center;
+  padding: 25.9px 0 23.1px 0.1px;
+  width: 176px;
   box-sizing: border-box;
 }
-.pagina-log .group-4 {
-  width: 86.7px;
-  height: 42px;
-}
-.pagina-log .gg-login {
-  margin-bottom: 1.1px;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 86.7px;
-  height: 42px;
-  box-sizing: border-box;
-}
-.pagina-log .container-1 {
-  margin-bottom: 12.9px;
-  display: flex;
-  flex-direction: row;
-  width: 399.7px;
-  box-sizing: border-box;
-}
-.pagina-log .esqueceu-sua-senha {
-  margin-right: 11.7px;
-  overflow-wrap: break-word;
-  font-family: 'Poppins';
-  font-weight: 400;
-  font-size: 20px;
-  color: #000000;
-}
-.pagina-log .acessar-1 {
+.pagina-cadastro .container-1 {
+  border-radius: 20px;
+  background: #F4F4F4;
   position: relative;
-  margin-left: 281px;
+  margin-bottom: 35px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 399.7px;
+  flex-direction: row;
+  padding: 29.4px 0 22.1px 15px;
+  width: 464px;
   box-sizing: border-box;
 }
-.pagina-log {
-  background: #FDFDFD;
+.pagina-cadastro .container-2 {
+  border-radius: 20px;
+  background: #F4F4F4;
+  position: relative;
+  margin-bottom: 26.6px;
+  display: flex;
+  flex-direction: row;
+  padding: 25.1px 0 26.4px 14.4px;
+  width: 464px;
+  box-sizing: border-box;
+}
+.pagina-cadastro .container-3 {
+  margin-bottom: 55.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pagina-cadastro .container-4 {
+  position: relative;
+  margin: 87px 0 77px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.pagina-cadastro .container-5 {
+  border-radius: 20px;
+  background: #F4F4F4;
+  position: relative;
+  margin-bottom: 40.9px;
+  display: flex;
+  flex-direction: row;
+  padding: 21.4px 0 23.1px 11px;
+  width: 464px;
+  box-sizing: border-box;
+}
+.pagina-cadastro .container-6 {
+  border-radius: 16px 0 0 16px;
+  background: #00acfc;
+  position: relative;
+  margin: 87px 28px 0 0;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 251px 0 293px 0;
-  width: 1440px;
+  padding: 72px 25.3px 77.5px 25.3px;
   box-sizing: border-box;
 }
