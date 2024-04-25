@@ -1,246 +1,193 @@
-.iphone-1415-pro-max-3 .container {
-    position: relative;
-    margin: 0 8.8px 1.5px 0;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 511.2px;
-    box-sizing: border-box;
-  }
-  .iphone-1415-pro-max-3 {
-    background: #FDFDFD;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 47px 0 64px 0;
-    width: 762px;
-    box-sizing: border-box;
-  }
-  .iphone-1415-pro-max-3 .logo-porto {
-    background: url('../img/image5.png') 50% / cover no-repeat;
-    width: 146px;
-    height: 80px;
-  }
-  .iphone-1415-pro-max-3 .rectangle-51 {
-    border-radius: 15px;
-    background: rgba(148, 138, 138, 0.14);
-    position: absolute;
-    top: 111px;
-    right: 2px;
-    width: 258px;
-    height: 57px;
-  }
-  .iphone-1415-pro-max-3 .linha {
-    border: 1px solid #000000;
-    background: #000000;
-    position: relative;
-    margin-bottom: 45px;
-    width: 568px;
-    height: 1px;
-  }
-  .iphone-1415-pro-max-3 .base {
-    box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25), inset 2px 4px 1px 0px rgba(0, 0, 0, 0.25);
-    border-radius: 20px;
-    background: #FDFDFD;
-    position: absolute;
-    left: 50%;
-    top: 25px;
-    translate: -50% 0;
-    width: 576px;
-    height: 939px;
-  }
-  .iphone-1415-pro-max-3 .rectangle-57 {
-    border-radius: 15px;
-    background: rgba(148, 138, 138, 0.14);
-    position: absolute;
-    right: 0px;
-    bottom: 105.5px;
-    width: 258px;
-    height: 57px;
-  }
-  .iphone-1415-pro-max-3 .ol-eu-sou-avic-porto-em-que-posso-ajudar {
-    position: relative;
-    margin: 0 24px 70.5px 0;
-    display: inline-block;
-    text-align: center;
-    overflow-wrap: break-word;
-    font-family: 'Poppins';
-    font-weight: 500;
-    font-size: 32px;
-    color: #000000;
-  }
-  .iphone-1415-pro-max-3 .rectangle-58 {
-    border-radius: 15px;
-    background: #85D2FD;
-    position: absolute;
-    left: 0px;
-    bottom: 5.5px;
-    width: 258px;
-    height: 57px;
-  }
-  .iphone-1415-pro-max-3 .vector {
-    width: 36px;
-    height: 24px;
-  }
-  .iphone-1415-pro-max-3 .pepicons-pencilcamera {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 28.7px;
-    height: 22px;
-    box-sizing: border-box;
-  }
-  .iphone-1415-pro-max-3 .group {
-    width: 28.7px;
-    height: 22px;
-  }
-  .iphone-1415-pro-max-3 .barra-de-digitar {
-    position: relative;
-    margin-right: 2px;
-    display: flex;
-    flex-direction: row;
-    column-gap: 35px;
-    width: fit-content;
-    box-sizing: border-box;
-  }
-  .iphone-1415-pro-max-3 .digite-aqui {
-    overflow-wrap: break-word;
-    font-family: 'Poppins';
-    font-weight: 300;
-    font-size: 18px;
-    color: #000000;
-  }
-  .iphone-1415-pro-max-3 .phx {
-    margin: 9.2px 0 40.2px 0;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 29.4px;
-    height: 30.6px;
-    box-sizing: border-box;
-  }
-  .iphone-1415-pro-max-3 .vector-3 {
-    width: 29.4px;
-    height: 30.6px;
-  }
-  .iphone-1415-pro-max-3 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor {
-    position: relative;
-    margin: 0 2px 41.5px 2px;
-    display: inline-block;
-    align-self: flex-end;
-    text-align: center;
-    overflow-wrap: break-word;
-    font-family: 'Poppins';
-    font-weight: 500;
-    font-size: 15px;
-    color: #000000;
-  }
-  .iphone-1415-pro-max-3 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor-1 {
-    position: relative;
-    margin-bottom: 58px;
-    display: inline-block;
-    align-self: flex-end;
-    text-align: center;
-    overflow-wrap: break-word;
-    font-family: 'Poppins';
-    font-weight: 500;
-    font-size: 15px;
-    color: #000000;
-  }
-  .iphone-1415-pro-max-3 .oi-bem-vindo-ao-chat-porto-em-que-posso-te-ajudar {
-    text-align: center;
-    overflow-wrap: break-word;
-    font-family: 'Poppins';
-    font-weight: 500;
-    font-size: 15px;
-    color: #000000;
-  }
-  .iphone-1415-pro-max-3 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor-2 {
-    text-align: center;
-    overflow-wrap: break-word;
-    font-family: 'Poppins';
-    font-weight: 500;
-    font-size: 15px;
-    color: #000000;
-  }
-  .iphone-1415-pro-max-3 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor-3 {
-    position: relative;
-    margin: 0 37px;
-    align-self: flex-start;
-    text-align: center;
-    overflow-wrap: break-word;
-    font-family: 'Poppins';
-    font-weight: 500;
-    font-size: 15px;
-    color: #000000;
-  }
-  .iphone-1415-pro-max-3 .chat {
-    border-radius: 15px;
-    position: relative;
-    margin-bottom: 34.5px;
-    display: flex;
-    flex-direction: column;
-    padding-right: 25.3px;
-    width: fit-content;
-    box-sizing: border-box;
-  }
-  .iphone-1415-pro-max-3 .container-1 {
-    border-radius: 300px;
-    background: rgba(148, 138, 138, 0.14);
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    padding: 18px 11px 15px 19px;
-    width: 66px;
-    height: 57px;
-    box-sizing: border-box;
-  }
-  .iphone-1415-pro-max-3 .container-2 {
-    border-radius: 300px;
-    background: rgba(148, 138, 138, 0.14);
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    padding: 17.9px 18.2px 17.1px 19.1px;
-    width: 66px;
-    height: 57px;
-    box-sizing: border-box;
-  }
-  .iphone-1415-pro-max-3 .container-3 {
-    border-radius: 15px;
-    background: #85D2FD;
-    position: relative;
-    margin-bottom: 56px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-self: flex-start;
-    padding: 7px 21.8px 4px 25.8px;
-    box-sizing: border-box;
-  }
-  .iphone-1415-pro-max-3 .container-4 {
-    border-radius: 100px;
-    background: rgba(148, 138, 138, 0.14);
-    position: relative;
-    margin-top: 2px;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    padding: 14px 17.6px;
-    width: 338px;
-    box-sizing: border-box;
-  }
-  .iphone-1415-pro-max-3 .container-5 {
-    border-radius: 15px;
-    background: #85D2FD;
-    position: relative;
-    margin-bottom: 61px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-self: flex-start;
-    padding: 6px 13.7px 5px 25.7px;
-    box-sizing: border-box;
-  }
+.group-27 .container {
+  margin: 0 40px 20px 40px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-27 .container-1 {
+  border-radius: 15px;
+  background: rgba(7, 7, 7, 0.17);
+  position: relative;
+  margin: 0 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  padding: 11.5px 0 0.5px 0;
+  width: 332px;
+  box-sizing: border-box;
+}
+.group-27 .container-2 {
+  border-radius: 300px;
+  background: rgba(148, 138, 138, 0.14);
+  position: relative;
+  margin-bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20.4px 0 19.5px 1.2px;
+  width: 81.2px;
+  height: 65px;
+  box-sizing: border-box;
+}
+.group-27 .ol-eu-sou-avic-porto-em-que-posso-ajudar {
+  margin-bottom: 35px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 40px;
+  color: #000000;
+}
+.group-27 .phx {
+  margin: 15.2px 0 27.2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 29.4px;
+  height: 30.6px;
+  box-sizing: border-box;
+}
+.group-27 .vector {
+  width: 29.4px;
+  height: 30.6px;
+}
+.group-27 .rectangle-66 {
+  border: 1px solid #000000;
+  background: #D9D9D9;
+  margin-bottom: 8px;
+  width: 1040px;
+  height: 1px;
+}
+.group-27 .barra-de-digitar {
+  margin-right: 12px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 43px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-27 .vector-1 {
+  width: 44.3px;
+  height: 27.4px;
+}
+.group-27 .pepicons-pencilcamera {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 35.3px;
+  height: 25.1px;
+  box-sizing: border-box;
+}
+.group-27 .group {
+  width: 35.3px;
+  height: 25.1px;
+}
+.group-27 .digite-aqui {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 18px;
+  color: #000000;
+}
+.group-27 .oi-bem-vindo-ao-chat-porto-em-que-posso-te-ajudar {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.group-27 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.group-27 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.group-27 .barra-digitar-desk {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1040px;
+  box-sizing: border-box;
+}
+.group-27 {
+  display: flex;
+  flex-direction: column;
+  width: 1040px;
+  box-sizing: border-box;
+}
+.group-27 .image-5 {
+  background: url('../img/image5.png')50% / cover no-repeat;
+  width: 231px;
+  height: 73px;
+}
+.group-27 .container-3 {
+  border-radius: 15px;
+  background: #85D2FD;
+  position: relative;
+  margin: 0 40px 62px 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 9.5px 0 2.5px 2px;
+  width: 332px;
+  box-sizing: border-box;
+}
+.group-27 .container-4 {
+  margin: 0 40.8px 0px 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 981.2px;
+  box-sizing: border-box;
+}
+.group-27 .container-5 {
+  border-radius: 15px;
+  background: #85D2FD;
+  position: relative;
+  margin: 155px 0.3px 0 0;
+  padding: 5.5px 27.9px 6.5px 27.9px;
+  width: 332px;
+  box-sizing: border-box;
+}
+.group-27 .container-6 {
+  border-radius: 100px;
+  border: 1px solid #000000;
+  background: rgba(148, 138, 138, 0.14);
+  position: relative;
+  margin-top: 2.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 17.9px 34px;
+  width: 415.6px;
+  box-sizing: border-box;
+}
+.group-27 .container-7 {
+  border-radius: 300px;
+  background: rgba(148, 138, 138, 0.14);
+  position: relative;
+  margin-bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 20.5px 13.5px 17.1px 13.5px;
+  width: 81.2px;
+  height: 65px;
+  box-sizing: border-box;
+}
