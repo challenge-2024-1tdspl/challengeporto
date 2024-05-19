@@ -1,39 +1,38 @@
-.group-27 .container {
-  margin: 0 40px 20px 40px;
+.group-29 .image-11 {
+  background: url('../img/logo.jpg') 50% / cover no-repeat;
+  margin: 0 47px 128px 0;
+  width: 183px;
+  height: 86px;
+}
+.group-29 {
   display: flex;
-  flex-direction: row;
-  align-self: flex-start;
-  width: fit-content;
+  flex-direction: column;
+  width: 1102px;
   box-sizing: border-box;
 }
-.group-27 .container-1 {
+.group-29 .container {
   border-radius: 15px;
-  background: rgba(7, 7, 7, 0.17);
+  background: rgba(0, 0, 0, 0.87);
   position: relative;
-  margin: 0 32px;
+  margin: 0 94px;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
   align-self: flex-end;
   padding: 11.5px 0 0.5px 0;
   width: 332px;
   box-sizing: border-box;
 }
-.group-27 .container-2 {
+.group-29 .container-1 {
   border-radius: 300px;
   background: rgba(148, 138, 138, 0.14);
   position: relative;
-  margin-bottom: 0px;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  padding: 20.4px 0 19.5px 1.2px;
-  width: 81.2px;
-  height: 65px;
+  padding: 23.4px 0 22.4px 1.2px;
+  width: 86px;
+  height: 74.7px;
   box-sizing: border-box;
 }
-.group-27 .ol-eu-sou-avic-porto-em-que-posso-ajudar {
-  margin-bottom: 35px;
+.group-29 .ol-eu-sou-avic-porto-em-que-posso-ajudar {
+  margin: 59px 152.1px 35px 0;
   display: inline-block;
   text-align: center;
   overflow-wrap: break-word;
@@ -42,58 +41,48 @@
   font-size: 40px;
   color: #000000;
 }
-.group-27 .phx {
-  margin: 15.2px 0 27.2px 0;
+.group-29 .phx {
+  margin: 1.2px 0 242.2px 0;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
   width: 29.4px;
   height: 30.6px;
   box-sizing: border-box;
 }
-.group-27 .vector {
+.group-29 .vector {
   width: 29.4px;
   height: 30.6px;
 }
-.group-27 .rectangle-66 {
-  border: 1px solid #000000;
-  background: #D9D9D9;
-  margin-bottom: 8px;
-  width: 1040px;
-  height: 1px;
-}
-.group-27 .barra-de-digitar {
-  margin-right: 12px;
+
+.group-29 .barra-de-digitar {
+  margin-right: 12.7px;
   display: flex;
   flex-direction: row;
-  column-gap: 43px;
+  column-gap: 45.6px;
   width: fit-content;
   box-sizing: border-box;
 }
-.group-27 .vector-1 {
-  width: 44.3px;
-  height: 27.4px;
+.group-29 .vector-1 {
+  width: 46.9px;
+  height: 31.4px;
 }
-.group-27 .pepicons-pencilcamera {
+.group-29 .pepicons-pencilcamera {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 35.3px;
-  height: 25.1px;
+  width: 37.4px;
+  height: 28.8px;
   box-sizing: border-box;
 }
-.group-27 .group {
-  width: 35.3px;
-  height: 25.1px;
+.group-29 .group {
+  width: 37.4px;
+  height: 28.8px;
 }
-.group-27 .digite-aqui {
+.group-29 .digite-aqui {
   overflow-wrap: break-word;
   font-family: 'Poppins';
   font-weight: 300;
   font-size: 18px;
   color: #000000;
 }
-.group-27 .oi-bem-vindo-ao-chat-porto-em-que-posso-te-ajudar {
+.group-29 .oi-bem-vindo-ao-chat-porto-em-que-posso-te-ajudar {
   text-align: center;
   overflow-wrap: break-word;
   font-family: 'Poppins';
@@ -101,7 +90,7 @@
   font-size: 16px;
   color: #000000;
 }
-.group-27 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor {
+.group-29 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor {
   text-align: center;
   overflow-wrap: break-word;
   font-family: 'Poppins';
@@ -109,85 +98,72 @@
   font-size: 16px;
   color: #000000;
 }
-.group-27 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor-1 {
+.group-29 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor-1 {
   text-align: center;
   overflow-wrap: break-word;
   font-family: 'Poppins';
   font-weight: 500;
   font-size: 16px;
-  color: #000000;
+  color: #FFFFFF;
 }
-.group-27 .barra-digitar-desk {
+.group-29 .barra-digitar-desk {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 1040px;
+  width: 1102px;
   box-sizing: border-box;
 }
-.group-27 {
-  display: flex;
-  flex-direction: column;
-  width: 1040px;
-  box-sizing: border-box;
-}
-.group-27 .image-5 {
-  background: url('../img/image5.png')50% / cover no-repeat;
-  width: 231px;
-  height: 73px;
-}
-.group-27 .container-3 {
+.group-29 .container-2 {
   border-radius: 15px;
-  background: #85D2FD;
+  background: #C0A554;
   position: relative;
-  margin: 0 40px 62px 40px;
+  margin: 0 40px 51px 40px;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
   align-self: flex-start;
   padding: 9.5px 0 2.5px 2px;
   width: 332px;
   box-sizing: border-box;
 }
-.group-27 .container-4 {
-  margin: 0 40.8px 0px 18px;
+.group-29 .container-3 {
+  margin-right: 0.3px;
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  width: 981.2px;
+  flex-direction: column;
+  align-items: center;
   box-sizing: border-box;
 }
-.group-27 .container-5 {
+.group-29 .container-4 {
   border-radius: 15px;
-  background: #85D2FD;
+  background: #C0A554;
   position: relative;
-  margin: 155px 0.3px 0 0;
   padding: 5.5px 27.9px 6.5px 27.9px;
-  width: 332px;
+  width: fit-content;
   box-sizing: border-box;
 }
-.group-27 .container-6 {
+.group-29 .container-5 {
   border-radius: 100px;
   border: 1px solid #000000;
   background: rgba(148, 138, 138, 0.14);
   position: relative;
-  margin-top: 2.3px;
+  margin: 2.6px 0 0px 0;
   display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  padding: 17.9px 34px;
-  width: 415.6px;
+  padding: 22.5px 39.2px;
+  width: 440.4px;
   box-sizing: border-box;
 }
-.group-27 .container-7 {
+.group-29 .container-6 {
+  margin: 0 102.8px 20px 40px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-29 .container-7 {
   border-radius: 300px;
   background: rgba(148, 138, 138, 0.14);
   position: relative;
-  margin-bottom: 0px;
   display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  padding: 20.5px 13.5px 17.1px 13.5px;
-  width: 81.2px;
-  height: 65px;
+  padding: 23.6px 14.3px 19.6px 14.3px;
+  width: 86px;
+  height: 74.7px;
   box-sizing: border-box;
 }

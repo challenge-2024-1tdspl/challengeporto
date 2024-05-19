@@ -1,5 +1,5 @@
 .pagina-log .image-11 {
-  background: url('../assets/images/image_11.png') 50% / cover no-repeat;
+  background: url('../img/logo.jpg') 50% / cover no-repeat;
   margin: 0 132.1px 84px 0;
   width: 183px;
   height: 86px;
@@ -43,16 +43,7 @@
   width: 1440px;
   box-sizing: border-box;
 }
-.pagina-log .rectangle-44 {
-  box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25), inset 4px 2px 1px 0px rgba(0, 0, 0, 0.05);
-  border-radius: 15px;
-  background: #FDFDFD;
-  position: absolute;
-  top: 236px;
-  right: 176px;
-  width: 1040px;
-  height: 585px;
-}
+
 .pagina-log .seja-bem-vindo {
   margin-bottom: 18px;
   display: inline-block;

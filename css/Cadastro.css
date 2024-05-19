@@ -1,3 +1,20 @@
+.pagina-cadastro .image-11 {
+  background: url('../img/logo.jpg') 50% / cover no-repeat;
+  margin: 0 57.2px 13.8px 0;
+  width: 147px;
+  height: 86px;
+}
+.pagina-cadastro .group-28 {
+  border-radius: 16px 0 0 16px;
+  background: #000000;
+  position: relative;
+  margin: 87px 20px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 72px 25.3px 77.5px 25.3px;
+  box-sizing: border-box;
+}
 .pagina-cadastro {
   background: #FDFDFD;
   display: flex;
@@ -37,12 +54,10 @@
 .pagina-cadastro .group-1 {
   position: relative;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
   box-sizing: border-box;
 }
 .pagina-cadastro .crie-sua-conta {
-  margin-top: 62.8px;
+  margin-top: 45.8px;
   display: inline-block;
   overflow-wrap: break-word;
   font-family: 'Poppins';
@@ -81,7 +96,7 @@
   font-size: 14px;
   color: #000000;
 }
-.pagina-cadastro .nome {
+.pagina-cadastro .vector {
   margin: 1.7px 18.9px 1.3px 0;
   width: 19px;
   height: 18px;
@@ -89,13 +104,11 @@
 .pagina-cadastro .mdiemail-outline {
   margin: 1.9px 16.1px 1.1px 0;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
   width: 24.2px;
   height: 18px;
   box-sizing: border-box;
 }
-.pagina-cadastro .email {
+.pagina-cadastro .vector-1 {
   width: 24.2px;
   height: 18px;
 }
@@ -105,7 +118,7 @@
   height: 28px;
 }
 .pagina-cadastro .preencha-seus-dados {
-  margin: 0 0 3.2px 89px;
+  margin: 0 0 3.2px 97px;
   display: inline-block;
   align-self: center;
   overflow-wrap: break-word;
@@ -116,8 +129,6 @@
 }
 .pagina-cadastro .group-2 {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
   box-sizing: border-box;
 }
 .pagina-cadastro .group-17 {
@@ -125,27 +136,17 @@
   position: relative;
   margin-left: 3px;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
   padding: 24.3px 3px 24.3px 0;
   width: 164px;
   box-sizing: border-box;
 }
-.pagina-cadastro .image-8 {
-  background: url('../img/image5.png') 50% / cover no-repeat;
-  margin: 0 50.2px 36.8px 0;
-  width: 146px;
-  height: 80px;
-}
 .pagina-cadastro .container {
   box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25);
   border-radius: 30px;
-  background: #00A1FC;
+  background: #C0A554;
   position: relative;
-  margin-left: 89px;
+  margin-left: 97px;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
   align-self: center;
   padding: 25.9px 0 23.1px 0.1px;
   width: 176px;
@@ -174,22 +175,6 @@
   box-sizing: border-box;
 }
 .pagina-cadastro .container-3 {
-  margin-bottom: 55.9px;
-  display: flex;
-  flex-direction: row;
-  align-self: flex-start;
-  width: fit-content;
-  box-sizing: border-box;
-}
-.pagina-cadastro .container-4 {
-  position: relative;
-  margin: 87px 0 77px 0;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  box-sizing: border-box;
-}
-.pagina-cadastro .container-5 {
   border-radius: 20px;
   background: #F4F4F4;
   position: relative;
@@ -200,14 +185,19 @@
   width: 464px;
   box-sizing: border-box;
 }
-.pagina-cadastro .container-6 {
-  border-radius: 16px 0 0 16px;
-  background: #00acfc;
+.pagina-cadastro .container-4 {
+  margin-bottom: 55.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pagina-cadastro .container-5 {
   position: relative;
-  margin: 87px 28px 0 0;
+  margin: 104px 0 77px 0;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  padding: 72px 25.3px 77.5px 25.3px;
+  align-items: flex-end;
   box-sizing: border-box;
 }
