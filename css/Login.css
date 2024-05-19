@@ -1,6 +1,12 @@
+.pagina-log .image-11 {
+  background: url('../assets/images/image_11.png') 50% / cover no-repeat;
+  margin: 0 132.1px 84px 0;
+  width: 183px;
+  height: 86px;
+}
 .pagina-log .vector-4 {
   width: 36px;
-  height: 37px;
+  height: 38.2px;
 }
 .pagina-log .efetue-seu-login {
   margin-right: 1px;
@@ -8,13 +14,11 @@
   font-family: 'Poppins';
   font-weight: 400;
   font-size: 24px;
-  color: #837F7F;
+  color: #AAA6A6;
 }
 .pagina-log .email-ou-usurio {
-  position: relative;
   margin-bottom: 55px;
   display: inline-block;
-  align-self: flex-start;
   overflow-wrap: break-word;
   font-family: 'Poppins';
   font-weight: 400;
@@ -22,7 +26,6 @@
   color: #837F7F;
 }
 .pagina-log .senha {
-  position: relative;
   margin: 0 0.2px;
   align-self: flex-start;
   overflow-wrap: break-word;
@@ -36,11 +39,20 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 251px 0 293px 0;
+  padding: 261px 0 326px 0;
   width: 1440px;
   box-sizing: border-box;
 }
-
+.pagina-log .rectangle-44 {
+  box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25), inset 4px 2px 1px 0px rgba(0, 0, 0, 0.05);
+  border-radius: 15px;
+  background: #FDFDFD;
+  position: absolute;
+  top: 236px;
+  right: 176px;
+  width: 1040px;
+  height: 585px;
+}
 .pagina-log .seja-bem-vindo {
   margin-bottom: 18px;
   display: inline-block;
@@ -48,7 +60,7 @@
   font-family: 'Poppins';
   font-weight: 700;
   font-size: 40px;
-  color: #00A1FC;
+  color: #000000;
 }
 .pagina-log .rectangle-47 {
   border-radius: 20px;
@@ -85,17 +97,9 @@
   font-size: 20px;
   color: #FFFFFF;
 }
-.pagina-log .image-5 {
-  background: url('../img/image5.png') 50% / cover no-repeat;
-  margin: 0 168.9px 100px 0;
-  width: 149.3px;
-  height: 80px;
-}
 .pagina-log .gg-login {
   margin-bottom: 1.1px;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
   width: 86.7px;
   height: 42px;
   box-sizing: border-box;
@@ -105,23 +109,19 @@
   border-radius: 100px;
   background: #FDFDFD;
   position: relative;
-  margin: 0 12.3px 1.1px 0;
+  margin: 1px 12.3px 0.1px 0;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  padding: 3px 0.7px 2px 0;
+  padding: 1.9px 0.7px 1.9px 0;
   width: 86.7px;
   height: 42px;
   box-sizing: border-box;
 }
 .pagina-log .acess {
   border-radius: 30px;
-  background: #00A1FC;
+  background: #C0A554;
   position: relative;
   margin-right: 12.1px;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
   padding: 7.2px 2.1px 5.9px 0;
   width: 201.9px;
   box-sizing: border-box;
@@ -129,10 +129,8 @@
 .pagina-log .passkeys {
   border-radius: 20px;
   position: relative;
-  margin: 0 0 57px 268.3px;
-  display: flex;
-  flex-direction: column;
-  padding: 0 0 45px 18.2px;
+  margin: 0 0 57px 265.3px;
+  padding: 0 18.2px 45px 18.2px;
   width: fit-content;
   box-sizing: border-box;
 }
@@ -142,14 +140,12 @@
 }
 .pagina-log .container {
   position: relative;
-  margin: 0 46.9px 17px 0;
   display: flex;
-  flex-direction: row;
-  width: fit-content;
+  flex-direction: column;
   box-sizing: border-box;
 }
 .pagina-log .bem-vindo {
-  margin-top: 66px;
+  margin-top: 56px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -157,7 +153,7 @@
 }
 .pagina-log .acessar-1 {
   position: relative;
-  margin-left: 281px;
+  margin-left: 278px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -165,6 +161,14 @@
   box-sizing: border-box;
 }
 .pagina-log .container-1 {
+  position: relative;
+  margin: 0 46.9px 17px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pagina-log .container-2 {
   margin-bottom: 12.9px;
   display: flex;
   flex-direction: row;
