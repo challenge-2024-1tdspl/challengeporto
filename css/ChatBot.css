@@ -4,166 +4,181 @@
   width: 183px;
   height: 86px;
 }
+
 .group-29 {
   display: flex;
   flex-direction: column;
   width: 1102px;
   box-sizing: border-box;
+  margin: 0 auto; /* Center the container */
 }
+
 .group-29 .container {
   border-radius: 15px;
   background: rgba(0, 0, 0, 0.87);
-  position: relative;
   margin: 0 94px;
   display: flex;
   align-self: flex-end;
-  padding: 11.5px 0 0.5px 0;
+  padding: 12px 0;
   width: 332px;
   box-sizing: border-box;
 }
+
 .group-29 .container-1 {
   border-radius: 300px;
   background: rgba(148, 138, 138, 0.14);
-  position: relative;
   display: flex;
-  padding: 23.4px 0 22.4px 1.2px;
+  justify-content: center;
+  align-items: center;
   width: 86px;
-  height: 74.7px;
+  height: 75px;
   box-sizing: border-box;
 }
+
 .group-29 .ol-eu-sou-avic-porto-em-que-posso-ajudar {
-  margin: 59px 152.1px 35px 0;
-  display: inline-block;
+  margin: 59px 152px 35px 0;
   text-align: center;
-  overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 40px;
   color: #000000;
 }
+
 .group-29 .phx {
-  margin: 1.2px 0 242.2px 0;
+  margin: 1px 0 242px 0;
   display: flex;
-  width: 29.4px;
-  height: 30.6px;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 31px;
   box-sizing: border-box;
 }
+
 .group-29 .vector {
-  width: 29.4px;
-  height: 30.6px;
+  width: 30px;
+  height: 31px;
 }
 
 .group-29 .barra-de-digitar {
-  margin-right: 12.7px;
   display: flex;
   flex-direction: row;
-  column-gap: 45.6px;
+  align-items: center;
+  column-gap: 45px;
   width: fit-content;
   box-sizing: border-box;
 }
+
 .group-29 .vector-1 {
-  width: 46.9px;
-  height: 31.4px;
+  width: 47px;
+  height: 31px;
 }
+
 .group-29 .pepicons-pencilcamera {
   display: flex;
-  width: 37.4px;
-  height: 28.8px;
+  justify-content: center;
+  align-items: center;
+  width: 37px;
+  height: 29px;
   box-sizing: border-box;
 }
+
 .group-29 .group {
-  width: 37.4px;
-  height: 28.8px;
+  width: 37px;
+  height: 29px;
 }
+
 .group-29 .digite-aqui {
-  overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 300;
   font-size: 18px;
   color: #000000;
 }
+
 .group-29 .oi-bem-vindo-ao-chat-porto-em-que-posso-te-ajudar {
   text-align: center;
-  overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 16px;
   color: #000000;
 }
+
 .group-29 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor {
   text-align: center;
-  overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 16px;
   color: #000000;
 }
+
 .group-29 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor-1 {
   text-align: center;
-  overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 16px;
   color: #FFFFFF;
 }
+
 .group-29 .barra-digitar-desk {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 1102px;
+  width: 100%;
   box-sizing: border-box;
 }
+
 .group-29 .container-2 {
   border-radius: 15px;
   background: #C0A554;
-  position: relative;
   margin: 0 40px 51px 40px;
   display: flex;
   align-self: flex-start;
-  padding: 9.5px 0 2.5px 2px;
+  padding: 10px 0 3px 2px;
   width: 332px;
   box-sizing: border-box;
 }
+
 .group-29 .container-3 {
-  margin-right: 0.3px;
   display: flex;
   flex-direction: column;
   align-items: center;
   box-sizing: border-box;
 }
+
 .group-29 .container-4 {
   border-radius: 15px;
   background: #C0A554;
-  position: relative;
-  padding: 5.5px 27.9px 6.5px 27.9px;
+  padding: 6px 28px;
   width: fit-content;
   box-sizing: border-box;
 }
+
 .group-29 .container-5 {
   border-radius: 100px;
   border: 1px solid #000000;
   background: rgba(148, 138, 138, 0.14);
-  position: relative;
-  margin: 2.6px 0 0px 0;
   display: flex;
-  padding: 22.5px 39.2px;
-  width: 440.4px;
+  justify-content: center;
+  align-items: center;
+  padding: 23px 39px;
+  width: 440px;
   box-sizing: border-box;
 }
+
 .group-29 .container-6 {
-  margin: 0 102.8px 20px 40px;
+  margin: 0 103px 20px 40px;
   display: flex;
   flex-direction: row;
   width: fit-content;
   box-sizing: border-box;
 }
+
 .group-29 .container-7 {
   border-radius: 300px;
   background: rgba(148, 138, 138, 0.14);
-  position: relative;
   display: flex;
-  padding: 23.6px 14.3px 19.6px 14.3px;
+  justify-content: center;
+  align-items: center;
   width: 86px;
-  height: 74.7px;
+  height: 75px;
   box-sizing: border-box;
 }

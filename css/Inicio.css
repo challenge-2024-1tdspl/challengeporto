@@ -9,16 +9,18 @@
   height: fit-content;
   box-sizing: border-box;
 }
+
 .home-page .rectangle-59 {
   border: 1px solid #CCCACA;
   background: #000000;
   position: absolute;
   left: 50%;
   top: 188px;
-  translate: -50% 0;
+  transform: translate(-50%, 0);
   width: 1043px;
   height: 1px;
 }
+
 .home-page {
   background: #FDFDFD;
   display: flex;
@@ -26,32 +28,36 @@
   width: 1440px;
   box-sizing: border-box;
 }
+
 .home-page .entrar {
   overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 20px;
   color: #000000;
 }
+
 .home-page .ajuda {
   margin: 15px 15px 1px 0;
   display: inline-block;
   width: 168.1px;
   overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 20px;
   color: #000000;
 }
-.home-page .servios {
+
+.home-page .servicos {
   margin-top: 16px;
   display: inline-block;
   overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 20px;
   color: #000000;
 }
+
 .home-page .image-9 {
   border-radius: 15px 0 0 15px;
   background: url('../img/imageminicial.png') 50% / cover no-repeat;
@@ -59,32 +65,36 @@
   width: 266px;
   height: 212px;
 }
-.home-page .rea-do-cliente {
+
+.home-page .area-do-cliente {
   margin: 0 0 16.5px 9px;
   display: inline-block;
   overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 32px;
   color: #FFFFFF;
 }
-.home-page .queremos-que-voc-encontre-todas-as-respostas-que-procura-por-aqui-tudo-de-forma-simples-prtica-egil-do-nosso-jeito-porto {
+
+.home-page .queremos-que-voc-encontre-todas-as-respostas-que-procura-por-aqui-tudo-de-forma-simples-prtica-agil-do-nosso-jeito-porto {
   margin-bottom: 24px;
   display: inline-block;
   text-align: center;
   overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 16px;
   color: #FFFFFF;
 }
+
 .home-page .entrar-1 {
   overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 16px;
   color: #FFFFFF;
 }
+
 .home-page .area-cliente {
   border-radius: 15px;
   background: #000000;
@@ -97,6 +107,7 @@
   width: fit-content;
   box-sizing: border-box;
 }
+
 .home-page .cryptocurrency-colorchat {
   margin: 86px 0 56px 0;
   display: flex;
@@ -104,42 +115,48 @@
   height: 49px;
   box-sizing: border-box;
 }
+
 .home-page .group {
   width: 52px;
   height: 49px;
 }
-.home-page .ainda-no-possui-conta {
+
+.home-page .ainda-nao-possui-conta {
   margin-bottom: 15px;
   display: inline-block;
   overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 20px;
   color: #FFFFFF;
 }
+
 .home-page .cadastrar {
   overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 15px;
   color: #FFFFFF;
 }
-.home-page .clique-nocone-abaixo-para-realizar-seu-cadastro {
+
+.home-page .clique-no-icone-abaixo-para-realizar-seu-cadastro {
   margin: 0 1px 32px 0;
   display: inline-block;
   text-align: center;
   overflow-wrap: break-word;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 15px;
   color: #FFFFFF;
 }
+
 .home-page .image-10 {
   border-radius: 30px;
   background: url('../img/inicial.png') 50% / cover no-repeat;
   width: 209px;
   height: 191px;
 }
+
 .home-page .gp-cadastro {
   margin-right: 48px;
   display: flex;
@@ -147,6 +164,7 @@
   width: 541px;
   box-sizing: border-box;
 }
+
 .home-page .container-1 {
   box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25), inset 4px 2px 1px 0px rgba(0, 0, 0, 0.05);
   border-radius: 15px;
@@ -158,6 +176,7 @@
   padding: 23px 18px 8px 65px;
   box-sizing: border-box;
 }
+
 .home-page .container-2 {
   margin: 9.5px 0 12px 0;
   display: flex;
@@ -165,6 +184,7 @@
   align-items: center;
   box-sizing: border-box;
 }
+
 .home-page .container-3 {
   border-radius: 30px;
   background: #000000;
@@ -178,6 +198,7 @@
   height: fit-content;
   box-sizing: border-box;
 }
+
 .home-page .container-4 {
   margin: 0 6px;
   display: flex;
@@ -185,6 +206,7 @@
   width: 641px;
   box-sizing: border-box;
 }
+
 .home-page .container-5 {
   margin-bottom: 85px;
   display: flex;
@@ -193,6 +215,7 @@
   width: 814.6px;
   box-sizing: border-box;
 }
+
 .home-page .container-6 {
   border-radius: 15px;
   background: #C0A554;
@@ -203,6 +226,7 @@
   width: 152px;
   box-sizing: border-box;
 }
+
 .home-page .container-7 {
   border-radius: 15px;
   background: #C0A554;
