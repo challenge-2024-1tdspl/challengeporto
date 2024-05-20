@@ -63,14 +63,14 @@
 
 
 .input1{
-  background-color: #000000; /* Cor de fundo */
-  border: none; /* Remove a borda padrão */
-  color: rgb(255, 255, 255); /* Cor do texto */
-  padding: 15px 32px; /* Espaçamento interno */
-  text-align: center; /* Alinhamento do texto */
-  font-size: 16px; /* Tamanho da fonte */
-  margin: 4px 2px; /* Margem */
-  border-radius: 12px; /* Bordas arredondadas */
+  background-color: #000000; 
+  border: none; 
+  color: rgb(255, 255, 255); 
+  padding: 15px 32px;
+  text-align: center; 
+  font-size: 16px; 
+  margin: 4px 2px; 
+  border-radius: 12px; 
 
 }
 

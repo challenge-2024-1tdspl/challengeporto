@@ -87,63 +87,51 @@ body {
     margin: 0;
 }
 .imgigor{
-    width: 10%; /* Largura total do contêiner pai */
-    height: 50%; /* Altura automática para manter a proporção */
-    border-radius: 15px; /* Bordas arredondadas */
-    box-shadow: 0 4px 8px rgb(240, 211, 133); /* Sombra */
-    transition: transform 0.3s, box-shadow 0.3s; /* Transição suave para transformações e sombra */
+    width: 10%; 
+    height: 50%; 
+    border-radius: 15px; 
+    box-shadow: 0 4px 8px rgb(240, 211, 133);
+    transition: transform 0.3s, box-shadow 0.3s; 
    
-    transform: scale(1.05); /* Aumenta a imagem ligeiramente ao passar o mouse */
+    transform: scale(1.05); 
     box-shadow: 0 8px 16px rgb(243, 213, 132);
 
 }
 
 .imgluis {
-    width: 10%; /* Largura total do contêiner pai */
-    height: 50%; /* Altura automática para manter a proporção */
-    border-radius: 15px; /* Bordas arredondadas */
-    box-shadow: 0 4px 8px rgb(240, 211, 133); /* Sombra */
-    transition: transform 0.3s, box-shadow 0.3s; /* Transição suave para transformações e sombra */
+    width: 10%; 
+    height: 50%; 
+    border-radius: 15px; 
+    box-shadow: 0 4px 8px rgb(240, 211, 133); 
+    transition: transform 0.3s, box-shadow 0.3s; 
    
-    transform: scale(1.05); /* Aumenta a imagem ligeiramente ao passar o mouse */
+    transform: scale(1.05);
     box-shadow: 0 8px 16px rgb(243, 213, 132);
 }
 .imgrenan{
-    width: 10%; /* Largura total do contêiner pai */
-    height: 50%; /* Altura automática para manter a proporção */
-    border-radius: 15px; /* Bordas arredondadas */
-    box-shadow: 0 4px 8px rgb(240, 211, 133); /* Sombra */
-    transition: transform 0.3s, box-shadow 0.3s; /* Transição suave para transformações e sombra */
+    width: 10%; 
+    height: 50%; 
+    border-radius: 15px; 
+    box-shadow: 0 4px 8px rgb(240, 211, 133); 
+    transition: transform 0.3s, box-shadow 0.3s; 
    
-    transform: scale(1.05); /* Aumenta a imagem ligeiramente ao passar o mouse */
+    transform: scale(1.05); 
     box-shadow: 0 8px 16px rgb(243, 213, 132);
-
-}
-
-.Repósitorio{
-     color: #FDFDFD;
-    border-radius: 30px;
-    background: #C0A554;
-    position: relative;
-    margin-right: 12.1px;
-    display: flex;
-    padding: 7.2px 2.1px 5.9px 0;
-    width: 201.9px;
-    justify-content: center;
-    align-items: center;
-    box-sizing: border-box;
-    cursor: pointer
-    
 
 }
 .logoimg{
 
-    width: 300px; /* Largura total do contêiner pai */
-    height: 300px; /* Altura automática para manter a proporção */
-    border-radius: 15px; /* Bordas arredondadas */
-    box-shadow: 0 4px 8px rgb(240, 211, 133); /* Sombra */
-    transition: transform 0.3s, box-shadow 0.3s; /* Transição suave para transformações e sombra */
-    transform: scale(1.05); /* Aumenta a imagem ligeiramente ao passar o mouse */
+    width: 300px; 
+    height: 300px; 
+    border-radius: 15px; 
+    box-shadow: 0 4px 8px rgb(240, 211, 133); 
+    transition: transform 0.3s, box-shadow 0.3s; 
+    transform: scale(1.05);  
     box-shadow: 0 8px 16px rgb(243, 213, 132);
+
+}
+.repoimg{
+  width: 100px;
+  height: 100px;
 
 }
