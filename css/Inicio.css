@@ -216,24 +216,34 @@
   box-sizing: border-box;
 }
 
-.home-page .container-6 {
-  border-radius: 15px;
+.btologin{
+  color: #000000;
+  border-radius: 30px;
   background: #C0A554;
   position: relative;
-  margin-right: 29px;
+  margin-right: 12.1px;
   display: flex;
-  padding: 3px 0 3px 2px;
-  width: 152px;
+  padding: 7.2px 2.1px 5.9px 0;
+  width: 201.9px;
+  justify-content: center;
+  align-items: center;
   box-sizing: border-box;
+  cursor: pointer
 }
+ 
 
-.home-page .container-7 {
-  border-radius: 15px;
+
+.btoforcad{
+  color: #000000;
+  border-radius: 30px;
   background: #C0A554;
   position: relative;
-  margin-left: 7px;
+  margin-right: 12.1px;
   display: flex;
-  padding-left: 6px;
-  width: 143px;
+  padding: 7.2px 2.1px 5.9px 0;
+  width: 201.9px;
+  justify-content: center;
+  align-items: center;
   box-sizing: border-box;
+  cursor: pointer
 }

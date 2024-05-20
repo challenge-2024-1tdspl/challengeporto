@@ -33,23 +33,26 @@
   font-size: 36px;
   color: #FFFFFF;
 }
-.pagina-cadastro .boto-entrar {
+.boto-entrar {
   box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25);
   border-radius: 30px;
-  border: 2px solid #FDFDFD;
+  border: 2px solid #020202;
   position: absolute;
   left: 50%;
   bottom: 0;
   transform: translateX(-50%);
-  width: 164px;
-  height: 72.5px;
+  width: 170px;
+  height: 70.5px;
+  cursor: pointer;
 }
 .pagina-cadastro .entrar {
+  
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
   font-weight: 800;
   font-size: 16px;
   color: #FFFFFF;
+  
 }
 .pagina-cadastro .group-1 {
   position: relative;
@@ -126,10 +129,7 @@
   font-size: 14px;
   color: #837F7F;
 }
-.pagina-cadastro .group-2 {
-  display: flex;
-  box-sizing: border-box;
-}
+
 .pagina-cadastro .group-17 {
   border-radius: 30px;
   position: relative;
@@ -139,19 +139,24 @@
   width: 164px;
   box-sizing: border-box;
 }
-.pagina-cadastro .container {
+.btocad{
+  color: #FDFDFD;
   box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25);
   border-radius: 30px;
   background: #C0A554;
   position: relative;
   margin-left: 97px;
-  display: flex;
-  align-self: center;
+  display: block;
   padding: 25.9px 0 23.1px 0.1px;
   width: 176px;
   box-sizing: border-box;
+  left: -50%;
+  text-align: center;
+  cursor: pointer;
+  
+  
 }
-.pagina-cadastro .container-1 {
+.input1 {
   border-radius: 20px;
   background: #F4F4F4;
   position: relative;
@@ -162,7 +167,7 @@
   width: 464px;
   box-sizing: border-box;
 }
-.pagina-cadastro .container-2 {
+.input2 {
   border-radius: 20px;
   background: #F4F4F4;
   position: relative;
@@ -173,7 +178,7 @@
   width: 464px;
   box-sizing: border-box;
 }
-.pagina-cadastro .container-3 {
+.input3{
   border-radius: 20px;
   background: #F4F4F4;
   position: relative;

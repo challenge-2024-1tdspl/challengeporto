@@ -20,13 +20,14 @@
 }
 
 .pagina-log .email-ou-usuario {
-  margin-bottom: 55px;
+ 
+  margin-bottom: 70px;
   display: inline-block;
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
-  font-weight: 400;
-  font-size: 13px;
-  color: #837F7F;
+  font-weight: 300;
+  font-size: 15px;
+  color: #ffffff;
 }
 
 .pagina-log .senha {
@@ -34,9 +35,9 @@
   align-self: flex-start;
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 13px;
-  color: #837F7F;
+  color: #ffffff;
 }
 
 .pagina-log {
@@ -59,26 +60,35 @@
   color: #000000;
 }
 
-.pagina-log .rectangle-47 {
-  border-radius: 20px;
-  border: 1px solid #000000;
-  position: absolute;
-  left: 50%;
-  top: 19px;
-  transform: translateX(-50%);
-  width: 397px;
-  height: 46px;
+
+
+.input1{
+  background-color: #000000; /* Cor de fundo */
+  border: none; /* Remove a borda padrão */
+  color: rgb(255, 255, 255); /* Cor do texto */
+  padding: 15px 32px; /* Espaçamento interno */
+  text-align: center; /* Alinhamento do texto */
+  font-size: 16px; /* Tamanho da fonte */
+  margin: 4px 2px; /* Margem */
+  border-radius: 12px; /* Bordas arredondadas */
+
 }
 
-.pagina-log .rectangle-48 {
+.input2{
+  color: #FDFDFD;
+  background-color: #000000;
   border-radius: 20px;
-  border: 1px solid #000000;
+  border: none;
   position: absolute;
+  text-align: center;
   left: 50%;
   bottom: 0px;
   transform: translateX(-50%);
-  width: 397px;
+  width: 300px;
   height: 46px;
+  font-size: 16px; 
+  margin: 4px 2px; 
+
 }
 
 .pagina-log .esqueceu-sua-senha {
@@ -118,8 +128,8 @@
   height: 42px;
   box-sizing: border-box;
 }
-
-.pagina-log .acess {
+.botao-estilizado{
+  color: #FDFDFD;
   border-radius: 30px;
   background: #C0A554;
   position: relative;
@@ -130,6 +140,7 @@
   justify-content: center;
   align-items: center;
   box-sizing: border-box;
+  cursor: pointer
 }
 
 .pagina-log .passkeys {
