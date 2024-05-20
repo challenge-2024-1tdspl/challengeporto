@@ -77,14 +77,14 @@
 .input2{
   color: #FDFDFD;
   background-color: #000000;
-  border-radius: 20px;
+  border-radius: 10px;
   border: none;
   position: absolute;
   text-align: center;
   left: 50%;
   bottom: 0px;
   transform: translateX(-50%);
-  width: 300px;
+  width: 260px;
   height: 46px;
   font-size: 16px; 
   margin: 4px 2px; 
