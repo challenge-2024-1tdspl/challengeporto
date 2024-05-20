@@ -160,11 +160,10 @@
   border-radius: 20px;
   background: #F4F4F4;
   position: relative;
-  margin-bottom: 35px;
-  display: flex;
+  margin-bottom: 26.6px;
   flex-direction: row;
-  padding: 29.4px 0 22.1px 15px;
-  width: 464px;
+  padding: 25.1px 0 26.4px 14.4px;
+  width: 470px;
   box-sizing: border-box;
 }
 .input2 {
@@ -172,23 +171,25 @@
   background: #F4F4F4;
   position: relative;
   margin-bottom: 26.6px;
-  display: flex;
   flex-direction: row;
+  display: flex;
   padding: 25.1px 0 26.4px 14.4px;
   width: 464px;
   box-sizing: border-box;
 }
+
 .input3{
-  border-radius: 20px;
+  border-radius: 15px;
   background: #F4F4F4;
   position: relative;
-  margin-bottom: 40.9px;
-  display: flex;
+  margin-bottom: 26.6px;
   flex-direction: row;
-  padding: 21.4px 0 23.1px 11px;
-  width: 464px;
+  padding: 25.1px 0 26.4px 14.4px;
+  width: 470px;
   box-sizing: border-box;
 }
+
+
 .pagina-cadastro .container-4 {
   margin-bottom: 55.9px;
   display: flex;
