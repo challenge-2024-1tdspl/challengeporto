@@ -1,18 +1,17 @@
+/* Estilos padrão (desktop) */
 .group-29 .image-11 {
   background: url('../img/logo.jpg') 50% / cover no-repeat;
   margin: 0 47px 128px 0;
   width: 183px;
   height: 86px;
 }
-
 .group-29 {
   display: flex;
   flex-direction: column;
   width: 1102px;
   box-sizing: border-box;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
-
 .group-29 .container {
   border-radius: 15px;
   background: rgba(0, 0, 0, 0.87);
@@ -23,7 +22,6 @@
   width: 332px;
   box-sizing: border-box;
 }
-
 .group-29 .container-1 {
   border-radius: 300px;
   background: rgba(148, 138, 138, 0.14);
@@ -34,7 +32,6 @@
   height: 75px;
   box-sizing: border-box;
 }
-
 .group-29 .ol-eu-sou-avic-porto-em-que-posso-ajudar {
   margin: 59px 152px 35px 0;
   text-align: center;
@@ -43,7 +40,6 @@
   font-size: 40px;
   color: #000000;
 }
-
 .btcancel {
   border-radius: 300px;
   background: rgba(148, 138, 138, 0.14);
@@ -55,14 +51,11 @@
   box-sizing: border-box;
   cursor: pointer;
 }
-
 .group-29 .vector {
-
   margin: auto;
   width: 30px;
   height: 31px;
 }
-
 .group-29 .barra-de-digitar {
   display: flex;
   flex-direction: row;
@@ -71,26 +64,20 @@
   width: fit-content;
   box-sizing: border-box;
 }
-
 .group-29 .vector-1 {
   width: 47px;
   height: 31px;
 }
-
-
-
 .group-29 .group {
   width: 37px;
   height: 29px;
 }
-
 .group-29 .digite-aqui {
   font-family: 'Poppins', sans-serif;
   font-weight: 300;
   font-size: 18px;
   color: #000000;
 }
-
 .group-29 .oi-bem-vindo-ao-chat-porto-em-que-posso-te-ajudar {
   text-align: center;
   font-family: 'Poppins', sans-serif;
@@ -98,7 +85,6 @@
   font-size: 16px;
   color: #000000;
 }
-
 .group-29 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor {
   text-align: center;
   font-family: 'Poppins', sans-serif;
@@ -106,7 +92,6 @@
   font-size: 16px;
   color: #000000;
 }
-
 .group-29 .lorem-ipsum-dolor-sit-amet-ceiusmod-tempor-1 {
   text-align: center;
   font-family: 'Poppins', sans-serif;
@@ -114,7 +99,6 @@
   font-size: 16px;
   color: #FFFFFF;
 }
-
 .group-29 .barra-digitar-desk {
   display: flex;
   flex-direction: column;
@@ -122,7 +106,6 @@
   width: 100%;
   box-sizing: border-box;
 }
-
 .group-29 .container-2 {
   border-radius: 15px;
   background: #C0A554;
@@ -133,14 +116,12 @@
   width: 332px;
   box-sizing: border-box;
 }
-
 .group-29 .container-3 {
   display: flex;
   flex-direction: column;
   align-items: center;
   box-sizing: border-box;
 }
-
 .group-29 .container-4 {
   border-radius: 15px;
   background: #C0A554;
@@ -148,8 +129,7 @@
   width: fit-content;
   box-sizing: border-box;
 }
-
-.inputchat{
+.inputchat {
   color: #000000;
   border-radius: 100px;
   border: 1px solid #000000;
@@ -161,7 +141,6 @@
   width: 440px;
   box-sizing: border-box;
 }
-
 .group-29 .container-6 {
   margin: 0 103px 20px 40px;
   display: flex;
@@ -169,8 +148,7 @@
   width: fit-content;
   box-sizing: border-box;
 }
-
-.bt3{
+.bt3, .bt2 {
   border-radius: 300px;
   background: rgba(148, 138, 138, 0.14);
   display: flex;
@@ -182,14 +160,69 @@
   cursor: pointer;
 }
 
-.bt2{
-  border-radius: 300px;
-  background: rgba(148, 138, 138, 0.14);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 86px;
-  height: 75px;
-  box-sizing: border-box;
-  cursor: pointer;
+/* Estilos para tablets (600px - 900px) */
+@media (max-width: 900px) {
+  .group-29 {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .group-29 .image-11 {
+    margin: 0 auto 50px auto;
+    width: 150px;
+    height: 70px;
+  }
+  .group-29 .container, .group-29 .container-2 {
+    margin: 20px auto;
+    width: 80%;
+  }
+  .group-29 .ol-eu-sou-avic-porto-em-que-posso-ajudar {
+    margin: 30px auto;
+    font-size: 32px;
+  }
+  .inputchat {
+    width: 90%;
+    padding: 15px 20px;
+  }
+  .group-29 .container-6 {
+    margin: 0 auto 20px auto;
+    width: 90%;
+  }
+  .bt3, .bt2 {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+/* Estilos para dispositivos móveis (menos de 600px) */
+@media (max-width: 600px) {
+  .group-29 {
+    width: 100%;
+    padding: 0 10px;
+  }
+  .group-29 .image-11 {
+    margin: 0 auto 20px auto;
+    width: 120px;
+    height: 60px;
+  }
+  .group-29 .container, .group-29 .container-2 {
+    margin: 10px auto;
+    width: 90%;
+    padding: 10px;
+  }
+  .group-29 .ol-eu-sou-avic-porto-em-que-posso-ajudar {
+    margin: 20px auto;
+    font-size: 24px;
+  }
+  .inputchat {
+    width: 100%;
+    padding: 10px 15px;
+  }
+  .group-29 .container-6 {
+    margin: 0 auto 10px auto;
+    width: 100%;
+  }
+  .bt3, .bt2 {
+    width: 50px;
+    height: 50px;
+  }
 }

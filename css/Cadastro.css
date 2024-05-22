@@ -1,3 +1,4 @@
+/* Estilos padrão (desktop) */
 .pagina-cadastro .image-11 {
   background: url('../img/logo.jpg') 50% / cover no-repeat;
   margin: 0 57.2px 13.8px 0;
@@ -46,13 +47,11 @@
   cursor: pointer;
 }
 .pagina-cadastro .entrar {
-  
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
   font-weight: 800;
   font-size: 16px;
   color: #FFFFFF;
-  
 }
 .pagina-cadastro .group-1 {
   position: relative;
@@ -129,7 +128,6 @@
   font-size: 14px;
   color: #837F7F;
 }
-
 .pagina-cadastro .group-17 {
   border-radius: 30px;
   position: relative;
@@ -139,7 +137,7 @@
   width: 164px;
   box-sizing: border-box;
 }
-.btocad{
+.btocad {
   color: #FDFDFD;
   box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.25);
   border-radius: 30px;
@@ -153,43 +151,27 @@
   left: -50%;
   text-align: center;
   cursor: pointer;
-  
-  
+}
+.input1, .input2, .input3 {
+  border-radius: 20px;
+  background: #F4F4F4;
+  position: relative;
+  margin-bottom: 26.6px;
+  flex-direction: row;
+  padding: 25.1px 0 26.4px 14.4px;
+  box-sizing: border-box;
 }
 .input1 {
-  border-radius: 20px;
-  background: #F4F4F4;
-  position: relative;
-  margin-bottom: 26.6px;
-  flex-direction: row;
-  padding: 25.1px 0 26.4px 14.4px;
   width: 470px;
-  box-sizing: border-box;
 }
 .input2 {
-  border-radius: 20px;
-  background: #F4F4F4;
-  position: relative;
-  margin-bottom: 26.6px;
-  flex-direction: row;
-  display: flex;
-  padding: 25.1px 0 26.4px 14.4px;
   width: 464px;
-  box-sizing: border-box;
+  display: flex;
 }
-
-.input3{
+.input3 {
   border-radius: 15px;
-  background: #F4F4F4;
-  position: relative;
-  margin-bottom: 26.6px;
-  flex-direction: row;
-  padding: 25.1px 0 26.4px 14.4px;
   width: 470px;
-  box-sizing: border-box;
 }
-
-
 .pagina-cadastro .container-4 {
   margin-bottom: 55.9px;
   display: flex;
@@ -205,4 +187,65 @@
   flex-direction: column;
   align-items: flex-end;
   box-sizing: border-box;
+}
+
+/* Estilos para tablets (600px - 900px) */
+@media (max-width: 900px) {
+  .pagina-cadastro {
+    flex-direction: column;
+    padding: 50px 20px;
+  }
+  .pagina-cadastro .image-11 {
+    margin: 0 auto 20px auto;
+    width: 120px;
+    height: 70px;
+  }
+  .pagina-cadastro .group-28 {
+    margin: 0 auto 20px auto;
+    padding: 50px 20px;
+  }
+  .pagina-cadastro .bem-vindo-de-volta, .pagina-cadastro .crie-sua-conta {
+    font-size: 28px;
+  }
+  .input1, .input2, .input3 {
+    width: 100%;
+    padding: 20px;
+  }
+  .btocad {
+    margin: 20px auto;
+    left: 0;
+    width: 150px;
+    padding: 20px;
+  }
+}
+
+/* Estilos para dispositivos móveis (menos de 600px) */
+@media (max-width: 600px) {
+  .pagina-cadastro {
+    flex-direction: column;
+    padding: 30px 10px;
+  }
+  .pagina-cadastro .image-11 {
+    margin: 0 auto 15px auto;
+    width: 100px;
+    height: 60px;
+  }
+  .pagina-cadastro .group-28 {
+    margin: 0 auto 15px auto;
+    padding: 40px 10px;
+  }
+  .pagina-cadastro .bem-vindo-de-volta, .pagina-cadastro .crie-sua-conta {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .input1, .input2, .input3 {
+    width: 100%;
+    padding: 15px;
+  }
+  .btocad {
+    margin: 15px auto;
+    left: 0;
+    width: 130px;
+    padding: 15px;
+  }
 }
