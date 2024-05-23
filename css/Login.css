@@ -1,7 +1,16 @@
+.pagina-log {
+  background: #FDFDFD;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+  height: 100vh; 
+  box-sizing: border-box;
+}
 
 .pagina-log .image-11 {
-  background: url('../img/logo.jpg') 50% / cover no-repeat;
-  margin: 0 132.1px 84px 0;
+  background: url('../img/logo.jpg') center / cover no-repeat;
+  margin-bottom: 84px;
   width: 183px;
   height: 86px;
 }
@@ -12,7 +21,7 @@
 }
 
 .pagina-log .efetue-seu-login {
-  margin-right: 1px;
+  margin-bottom: 1px;
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
@@ -22,7 +31,6 @@
 
 .pagina-log .email-ou-usuario {
   margin-bottom: 70px;
-  display: inline-block;
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
   font-weight: 300;
@@ -32,7 +40,6 @@
 
 .pagina-log .senha {
   margin: 0 0.2px;
-  align-self: flex-start;
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
   font-weight: 300;
@@ -40,19 +47,8 @@
   color: #ffffff;
 }
 
-.pagina-log {
-  background: #FDFDFD;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 261px 0 326px 0;
-  width: 100%;
-  box-sizing: border-box;
-}
-
 .pagina-log .seja-bem-vindo {
   margin-bottom: 18px;
-  display: inline-block;
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
@@ -60,7 +56,7 @@
   color: #000000;
 }
 
-.input1 {
+.input1, .input2 {
   background-color: #000000; 
   border: none; 
   color: rgb(255, 255, 255); 
@@ -76,14 +72,8 @@
   background-color: #000000;
   border-radius: 10px;
   border: none;
-  position: absolute;
-  text-align: center;
-  left: 50%;
-  transform: translateX(-50%);
   width: 260px;
   height: 46px;
-  font-size: 16px; 
-  margin: 4px 2px; 
 }
 
 .pagina-log .esqueceu-sua-senha {
@@ -108,7 +98,6 @@
   display: flex;
   width: 50px;
   height: 50px;
-  box-sizing: border-box;
 }
 
 .pagina-log .fb-login {
@@ -116,32 +105,82 @@
   border-radius: 100px;
   background: #FDFDFD;
   position: relative;
-  margin: 1px 12.3px 0.1px 0;
   display: flex;
-  padding: 1.9px 0.7px 1.9px 0;
   width: 86.7px;
   height: 42px;
-  box-sizing: border-box;
 }
 
 .botao-estilizado {
   color: #FDFDFD;
   border-radius: 30px;
   background: #C0A554;
-  position: relative;
-  margin-right: 12.1px;
   display: flex;
   padding: 7.2px 2.1px 5.9px 0;
   width: 201.9px;
   justify-content: center;
   align-items: center;
-  box-sizing: border-box;
   cursor: pointer;
 }
 
 .pagina-log .passkeys {
   border-radius: 20px;
-  position: relative;
-  margin: 0 0 57px 265.3px;
-  padding: 0 18.2px; /* Adicione o ponto e vírgula aqui */
+  padding: 0 18.2px;
+}
+
+
+@media screen and (min-width: 768px) {
+  .pagina-log {
+    padding: 5vh 0; 
+  }
+
+ 
+  .pagina-log .image-11 {
+    width: 250px;
+    height: 117px;
+  }
+
+ 
+  .pagina-log .vector-4 {
+    width: 100px;
+    height: 48.5px;
+  }
+
+  
+  .pagina-log .efetue-seu-login {
+    font-size: 1.8vh; 
+
+  
+  .pagina-log .seja-bem-vindo {
+    font-size: 3.5vh; 
+  }
+}
+
+
+@media screen and (min-width: 1024px) {
+  .pagina-log {
+    padding: 3vh 0; 
+  }
+
+
+  .pagina-log .image-11 {
+    width: 300px;
+    height: 140px;
+  }
+
+  
+  .pagina-log .vector-4 {
+    width: 120px;
+    height: 58px;
+  }
+
+
+  .pagina-log .efetue-seu-login {
+    font-size: 1.5vh; 
+  }
+
+ 
+  .pagina-log .seja-bem-vindo {
+    font-size: 3vh; 
+  }
+}
 }
