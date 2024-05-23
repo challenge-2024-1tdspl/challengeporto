@@ -51,8 +51,9 @@ body {
 
 .navbar ul li a {
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: #ffffff;
     transition: color 0.3s;
+    cursor: pointer;
 }
 
 .navbar ul li a:hover {
