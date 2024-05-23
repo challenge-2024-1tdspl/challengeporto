@@ -79,7 +79,6 @@
   position: absolute;
   text-align: center;
   left: 50%;
-  bottom: 0px;
   transform: translateX(-50%);
   width: 260px;
   height: 46px;
@@ -96,7 +95,7 @@
   color: #000000;
 }
 
-.pagina-log .acessar {
+.pagina-log .acess {
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
@@ -144,5 +143,5 @@
   border-radius: 20px;
   position: relative;
   margin: 0 0 57px 265.3px;
-  padding: 0 18.2px
+  padding: 0 18.2px; /* Adicione o ponto e vírgula aqui */
 }
