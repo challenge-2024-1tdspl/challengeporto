@@ -3,8 +3,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 261px 0 326px 0;
-  width: 1440px;
+  justify-content: center; 
+  height: 100vh; 
   box-sizing: border-box;
 }
 
@@ -29,8 +29,8 @@
 }
 
 .pagina-log .image-11 {
-  background: url('../img/logo.jpg') 50% / cover no-repeat;
-  margin: 0 132.1px 84px 0;
+  background: url('../img/logo.jpg') center / cover no-repeat;
+  margin-bottom: 84px;
   width: 183px;
   height: 86px;
 }
@@ -53,7 +53,7 @@
 }
 
 .pagina-log .efetue-seu-login {
-  margin-right: 1px;
+  margin-bottom: 1px;
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
@@ -174,4 +174,59 @@
   width: 201.9px;
   cursor: pointer;
   box-sizing: border-box;
+}
+@media screen and (min-width: 768px) {
+  .pagina-log {
+    padding: 5vh 0; 
+  }
+
+
+  .pagina-log .image-11 {
+    width: 250px;
+    height: 117px;
+  }
+
+
+  .pagina-log .vector-4 {
+    width: 100px;
+    height: 48.5px;
+  }
+
+
+  .pagina-log .efetue-seu-login {
+    font-size: 1.8vh; 
+
+
+  .pagina-log .seja-bem-vindo {
+    font-size: 3.5vh; 
+  }
+}
+
+
+@media screen and (min-width: 1024px) {
+  .pagina-log {
+    padding: 3vh 0; 
+  }
+
+
+  .pagina-log .image-11 {
+    width: 300px;
+    height: 140px;
+  }
+
+
+  .pagina-log .vector-4 {
+    width: 120px;
+    height: 58px;
+  }
+
+
+  .pagina-log .efetue-seu-login {
+    font-size: 1.5vh; 
+  }
+
+
+  .pagina-log .seja-bem-vindo {
+    font-size: 3vh; 
+  }
 }
