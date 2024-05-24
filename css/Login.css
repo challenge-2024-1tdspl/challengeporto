@@ -97,7 +97,7 @@
   box-sizing: border-box;
 }
 
-.pagina-log .email-ou-usurio,
+.pagina-log .email-ou-usuario,
 .pagina-log .senha {
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
@@ -106,7 +106,7 @@
   color: #837F7F;
 }
 
-.pagina-log .email-ou-usurio {
+.pagina-log .email-ou-usuario {
   margin-bottom: 55px;
 }
 
@@ -133,35 +133,6 @@
   box-sizing: border-box;
 }
 
-.pagina-log .fb-login,
-.pagina-log .gg-login {
-  display: flex;
-  width: 86.7px;
-  height: 42px;
-  box-sizing: border-box;
-}
-
-.pagina-log .fb-login {
-  box-shadow: 5px 1px 10px 0px rgba(0, 0, 0, 0.25);
-  border-radius: 100px;
-  background: #FDFDFD;
-  margin: 1px 12.3px 0.1px 0;
-  padding: 1.9px 0.7px 1.9px 0;
-}
-
-.pagina-log .gg-login {
-  margin-bottom: 1.1px;
-}
-
-.pagina-log .vector-4 {
-  width: 36px;
-  height: 38.2px;
-}
-
-.pagina-log .group-4 {
-  width: 86.7px;
-  height: 42px;
-}
 
 .pagina-log .acess {
   border-radius: 30px;
